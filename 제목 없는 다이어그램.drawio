@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T08:12:44.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.2" etag="OxUbQdTiQ3GdvSQUByMs" type="github"><diagram id="1BFLsFC23LwZ4Tyq1mHe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-20T08:16:10.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nd_0TMiNU1y3dJ-5fQx_" version="20.4.2" type="github">
+  <diagram id="1BFLsFC23LwZ4Tyq1mHe" name="페이지-1">
+    <mxGraphModel dx="1447" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ipY7upk18AWSS5D93XIC-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ipY7upk18AWSS5D93XIC-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ipY7upk18AWSS5D93XIC-4" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="300" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ipY7upk18AWSS5D93XIC-5" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="300" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ipY7upk18AWSS5D93XIC-6" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="40" width="300" height="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
