@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T06:07:45.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Cgk-PM5Tn68Fab-kXfN2" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T06:08:39.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A3WCALiQSLRKWEgovIqG" version="20.6.0" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
-    <mxGraphModel dx="2602" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="oyet4yBadCuPjKH_klJJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oyet4yBadCuPjKH_klJJ-21" target="oyet4yBadCuPjKH_klJJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-42" value="&lt;h1&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Apple SD Gothic Neo&amp;quot;, helvetica, noto, notojp, notokr, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, &amp;quot;맑은 고딕&amp;quot;, Dotum, 돋움, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Common Settings on both RHELServer&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;DNS : 168.126.63.1 &amp;amp; 168.126.63.2&lt;/p&gt;&lt;p&gt;root PW : unnet1212&lt;/p&gt;&lt;p&gt;NTP : 192.168.1.191&lt;/p&gt;&lt;p&gt;MEM : 4G&lt;/p&gt;&lt;p&gt;Locale&amp;amp;Lang : Asia/Seoul &amp;amp; en_US&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="370" width="380" height="180" as="geometry" />
+        <mxCell id="oyet4yBadCuPjKH_klJJ-42" value="&lt;h1&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Apple SD Gothic Neo&amp;quot;, helvetica, noto, notojp, notokr, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, &amp;quot;맑은 고딕&amp;quot;, Dotum, 돋움, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Common Settings on both Server&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;DNS : 168.126.63.1 &amp;amp; 168.126.63.2&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;root PW : unnet1212&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;NTP : 192.168.1.191&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;MEM : 4G&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;Locale&amp;amp;Lang : Asia/Seoul &amp;amp; en_US&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="440" width="380" height="126" as="geometry" />
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-52" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l3_switch;fillColor=#FAFAFA;strokeColor=#005073;" parent="1" vertex="1">
           <mxGeometry x="490" y="100" width="50" height="50" as="geometry" />
