@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T05:25:29.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XM2lSV7A04dbIM0PBaDe" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T05:25:38.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RxXhA2x5EQ9WJxJn8o-8" version="20.4.2" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
     <mxGraphModel dx="819" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#F5F5F5;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
           <mxGeometry x="780" y="90" width="57" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="oyet4yBadCuPjKH_klJJ-50" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#F5F5F5;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="57" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
