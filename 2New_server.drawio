@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T05:21:41.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j5jiSrOa1KtjGESv91nr" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T05:22:16.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PohTxoOL6cZWqhN1q-X_" version="20.4.2" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
     <mxGraphModel dx="1433" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="oyet4yBadCuPjKH_klJJ-4" value="&lt;b&gt;RHEL7.4&lt;/b&gt;&lt;br&gt;hostname : UNTESTSV7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="200" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-6" value="&lt;b&gt;Host2&lt;/b&gt;&lt;br&gt;192.168.20.1/24&lt;br&gt;52:54:00:a4:57:c8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oyet4yBadCuPjKH_klJJ-6" value="&lt;b&gt;Host2&lt;/b&gt;&lt;br&gt;52:54:00:a4:57:c8&lt;br&gt;192.168.20.1/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-7" value="Host1&lt;br&gt;192.168.10.1/24&lt;br&gt;52:54:00:a4:57:c8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oyet4yBadCuPjKH_klJJ-7" value="&lt;b&gt;Host1&lt;/b&gt;&lt;br&gt;52:54:00:a4:57:c8&lt;br&gt;192.168.10.1/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-18" target="oyet4yBadCuPjKH_klJJ-1">
