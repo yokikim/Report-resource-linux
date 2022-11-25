@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T05:18:33.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SnCJdRF8MaABk6jaB5mY" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T05:21:41.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j5jiSrOa1KtjGESv91nr" version="20.4.2" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
-    <mxGraphModel dx="819" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,9 @@
             <mxPoint x="680.0000000000002" y="570" as="sourcePoint" />
             <mxPoint x="814.1600000000001" y="693.4399999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oyet4yBadCuPjKH_klJJ-42" value="&lt;h1&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Apple SD Gothic Neo&amp;quot;, helvetica, noto, notojp, notokr, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, &amp;quot;맑은 고딕&amp;quot;, Dotum, 돋움, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Common Settings on both Server&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;DNS : 168.126.63.1 &amp;amp; 168.126.63.2&lt;/p&gt;&lt;p&gt;root PW : unnet1212&lt;/p&gt;&lt;p&gt;NTP : 192.168.1.191&lt;/p&gt;&lt;p&gt;MEM : 4G&lt;/p&gt;&lt;p&gt;Locale&amp;amp;Lang : Asia/Seoul &amp;amp; en_US&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="640" width="310" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
