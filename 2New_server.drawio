@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T05:14:51.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DxHj0OX8Tn7yR8Xfl-O8" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T05:16:17.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SWCEPEHUrhGvcZonKX4b" version="20.4.2" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
-    <mxGraphModel dx="1433" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="oyet4yBadCuPjKH_klJJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-18" target="oyet4yBadCuPjKH_klJJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-18" value="team0&lt;br&gt;enp1s0 &amp;amp; enp2s0&lt;br&gt;192.168.122.86/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oyet4yBadCuPjKH_klJJ-18" value="team0&lt;br&gt;enp1s0 &amp;amp; enp2s0&lt;br&gt;192.168.122.86/24&lt;br&gt;DNS 168.126.63.1&lt;br&gt;&amp;amp; 168.126.63.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-19" target="oyet4yBadCuPjKH_klJJ-6">
@@ -61,7 +61,7 @@
         <mxCell id="oyet4yBadCuPjKH_klJJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-21" target="oyet4yBadCuPjKH_klJJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-21" value="bond0&lt;br&gt;eth0&amp;amp;eth1&lt;br&gt;192.168.122.74/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oyet4yBadCuPjKH_klJJ-21" value="bond0&lt;br&gt;eth0&amp;amp;eth1&lt;br&gt;192.168.122.74/24&lt;br&gt;DNS 168.126.63.1&lt;br&gt;&amp;amp; 168.126.63.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-22" target="oyet4yBadCuPjKH_klJJ-6">
