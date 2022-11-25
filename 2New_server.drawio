@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T05:33:13.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GULrd9IiaHlyxeE3gwCM" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T05:34:46.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fKVD6Pv_OqTSuw3ib3eV" version="20.4.2" type="github">
   <diagram id="3-aWnPjAAtXSHg9XjmKd" name="페이지-1">
     <mxGraphModel dx="1433" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="oyet4yBadCuPjKH_klJJ-1" value="&lt;b&gt;NAT Gateway&lt;/b&gt;&lt;br&gt;192.168.122.1/24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oyet4yBadCuPjKH_klJJ-2" value="External" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oyet4yBadCuPjKH_klJJ-2" value="&lt;b&gt;External (Inernet)&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oyet4yBadCuPjKH_klJJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyet4yBadCuPjKH_klJJ-3" target="oyet4yBadCuPjKH_klJJ-18">
