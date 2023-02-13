@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:38:27.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="csjadnnKA4drEA0noJWT" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:38:50.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xEK29TghEgPU8VuJtaML" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
-    <mxGraphModel dx="1893" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-60" width="960" height="500" as="geometry" />
+          <mxGeometry x="105" y="170" width="960" height="500" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
           <mxGeometry y="10" width="960" height="490" as="geometry" />
@@ -18,66 +18,66 @@
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-19" value="0.5" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-20" value="&lt;font color=&quot;#14047a&quot; style=&quot;font-size: 18px;&quot;&gt;Isolated Network&lt;br&gt;192.168.10.0/24&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9F0FF;strokeColor=none;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-19">
-          <mxGeometry x="280" y="134" width="490" height="280" as="geometry" />
+          <mxGeometry x="345" y="364" width="490" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-21" value="&lt;font color=&quot;#7a1800&quot;&gt;NAT network&lt;br&gt;192.168.122.0/24&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#14047A;fillColor=#FFE8D1;strokeColor=none;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-19">
-          <mxGeometry x="400" y="-60" width="230" height="90" as="geometry" />
+          <mxGeometry x="465" y="170" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-24" value="line" parent="0" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-24" value="line" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24" source="SxxazjnEcDOOSWcFCbGN-11" target="SxxazjnEcDOOSWcFCbGN-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="330" as="sourcePoint" />
-            <mxPoint x="600" y="280" as="targetPoint" />
+            <mxPoint x="615" y="560" as="sourcePoint" />
+            <mxPoint x="665" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="170" />
+              <mxPoint x="585" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;exitX=0.534;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="519.7899999999997" y="169.10000000000014" as="sourcePoint" />
-            <mxPoint x="519" y="30" as="targetPoint" />
+            <mxPoint x="584.7899999999997" y="399.10000000000014" as="sourcePoint" />
+            <mxPoint x="584" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24" target="SxxazjnEcDOOSWcFCbGN-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="60" as="sourcePoint" />
-            <mxPoint x="610" y="130" as="targetPoint" />
+            <mxPoint x="935" y="290" as="sourcePoint" />
+            <mxPoint x="675" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="870" y="-15" />
+              <mxPoint x="935" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;exitX=0.517;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24" source="SxxazjnEcDOOSWcFCbGN-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-70" as="sourcePoint" />
-            <mxPoint x="519" y="-90" as="targetPoint" />
+            <mxPoint x="575" y="160" as="sourcePoint" />
+            <mxPoint x="584" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;rhel8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="425" y="80" width="185" height="90" as="geometry" />
+          <mxGeometry x="490" y="310" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="385" y="50" width="59.2" height="59.2" as="geometry" />
+          <mxGeometry x="450" y="280" width="59.2" height="59.2" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Web&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="200" y="324" width="185" height="90" as="geometry" />
+          <mxGeometry x="265" y="554" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="160" y="294" width="59.2" height="59.2" as="geometry" />
+          <mxGeometry x="225" y="524" width="59.2" height="59.2" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-13" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;DB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="650" y="324" width="185" height="90" as="geometry" />
+          <mxGeometry x="715" y="554" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="610" y="294" width="59.2" height="59.2" as="geometry" />
+          <mxGeometry x="675" y="524" width="59.2" height="59.2" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-22" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;viewer-guest&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="780" y="60" width="185" height="90" as="geometry" />
+          <mxGeometry x="845" y="290" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="740" y="30" width="59.2" height="59.2" as="geometry" />
+          <mxGeometry x="805" y="260" width="59.2" height="59.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
