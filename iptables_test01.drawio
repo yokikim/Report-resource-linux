@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:38:50.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xEK29TghEgPU8VuJtaML" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:40:30.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QOFSz2idVU-DqTdDITe_" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
-    <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -54,7 +54,7 @@
             <mxPoint x="584" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="locked=1;" parent="0" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;rhel8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
           <mxGeometry x="490" y="310" width="185" height="90" as="geometry" />
         </mxCell>
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
           <mxGeometry x="805" y="260" width="59.2" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MariaDB_Server.svg;fontColor=#7A1800;fillColor=#FFE8D1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="680.6" y="583.2" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-31" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.wordpress_2;fillColor=#35E2EE;gradientColor=#0E4D99;fontSize=22;fontColor=#7A1800;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="225" y="587.2" width="56.8" height="56.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
