@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:29:08.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pvvyHYbw98-9g-4svpp-" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:29:56.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="inyo7CQrQtJsJma73qrh" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
     <mxGraphModel dx="1325" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="SxxazjnEcDOOSWcFCbGN-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.esx_esxi;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
           <mxGeometry x="10" width="33.2" height="50.8" as="geometry" />
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-3" value="CLT-master02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
-          <mxGeometry x="43.2" y="10.399999999999999" width="96.8" height="29.6" as="geometry" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CLT-master02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
+          <mxGeometry x="43.2" y="10.4" width="126.8" height="39.6" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-19" value="0.5" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-20" value="&lt;font color=&quot;#14047a&quot; style=&quot;font-size: 18px;&quot;&gt;Isolated Network&lt;br&gt;192.168.10.0/24&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D9F0FF;strokeColor=none;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-19">
