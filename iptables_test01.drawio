@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:59:42.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0eeiFaUOMgmVExnJhhlZ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T07:07:39.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4Njk-Dht6zmX6pIqaWzo" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
     <mxGraphModel dx="1656" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             <mxPoint x="584" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="locked=1;" parent="0" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;rhel8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
           <mxGeometry x="490" y="310" width="185" height="90" as="geometry" />
         </mxCell>
@@ -91,8 +91,8 @@
         <mxCell id="SxxazjnEcDOOSWcFCbGN-33" value="" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#0077d3;strokeColor=none;fontSize=22;fontColor=#7A1800;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
           <mxGeometry x="802" y="323.2" width="63.5" height="50.8" as="geometry" />
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-34" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;fontColor=#7A1800;fillColor=#FFFFFF;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
-          <mxGeometry x="522.5" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-34" value="&lt;font color=&quot;#021926&quot;&gt;Uplink&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;fontColor=#7A1800;fillColor=#FFFFFF;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="522.5" y="70" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-60" value="제목 없는 레이어" style="locked=1;" parent="0" />
         <mxCell id="SxxazjnEcDOOSWcFCbGN-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=default;strokeWidth=1;fontSize=16;fontColor=#000066;fillColor=default;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-60">
