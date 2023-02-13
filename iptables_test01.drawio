@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:36:26.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BSUp9VEoghpTOl794LoY" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:36:57.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hCnfhccFSvcm_njLLE_a" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
-    <mxGraphModel dx="1325" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -33,10 +33,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24">
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#7A1800;exitX=0.534;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SxxazjnEcDOOSWcFCbGN-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="90" as="sourcePoint" />
-            <mxPoint x="520" y="30" as="targetPoint" />
+            <mxPoint x="519.7899999999997" y="169.10000000000014" as="sourcePoint" />
+            <mxPoint x="519" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="locked=1;" parent="0" />
