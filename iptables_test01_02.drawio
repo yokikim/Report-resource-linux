@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T09:02:43.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GlS62gI9VxDIKKejxrkH" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T09:03:47.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DUpj19zr1sp3P-1kEyOM" version="20.8.20" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
     <mxGraphModel dx="883" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="SxxazjnEcDOOSWcFCbGN-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CLT-master02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SxxazjnEcDOOSWcFCbGN-16" vertex="1">
           <mxGeometry x="59.11145833333333" y="14.587000000000003" width="149.9066583333333" height="57.76452" as="geometry" />
         </mxCell>
-        <mxCell id="-dV9_7q0t6joTDBwVUFz-1" value="&lt;font color=&quot;#663300&quot;&gt;Br0&lt;br&gt;192.168.1.191/24&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#14047A;fillColor=#FFE8D1;strokeColor=none;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
+        <mxCell id="-dV9_7q0t6joTDBwVUFz-1" value="&lt;font color=&quot;#663300&quot;&gt;Br0 (Real NIC)&lt;br&gt;192.168.1.191/24&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#14047A;fillColor=#FFE8D1;strokeColor=none;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
           <mxGeometry x="430.00377409113264" y="3.9950000000000045" width="271.9135223360014" height="106.40249999999999" as="geometry" />
         </mxCell>
         <mxCell id="3lqf1oaRyAjymzeeHCCF-2" value="" style="group" parent="1" vertex="1" connectable="0">
