@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:51:17.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e9YYvZ7nvIYooDU1Yn6d" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:51:46.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cBLK-tkcXMOqJ8Q3Jt52" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
-    <mxGraphModel dx="1152" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1656" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="SxxazjnEcDOOSWcFCbGN-57" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#021926;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;labelBorderColor=none;strokeColor=default;strokeWidth=2;fontSize=16;fontColor=#000066;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-49">
           <mxGeometry x="925" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-58" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;enp7s0 : 192.168.10.254&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=#7A1800;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-49">
+          <mxGeometry x="945" y="250" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
