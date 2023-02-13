@@ -1,17 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:22:52.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xTK-QIZmIBBppZzZzFdA" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:25:20.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KxUYJ1aJEFFDI3xm5ZSG" version="20.8.13" type="github">
   <diagram name="페이지-1" id="E3Nfmj0UPKqn4euKRgJr">
     <mxGraphModel dx="1020" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="950" height="490" as="geometry" />
+        <mxCell id="1" style="locked=1;" parent="0" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="20" width="960" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.esx_esxi;" vertex="1" parent="1">
-          <mxGeometry x="50" y="20" width="33.2" height="50.8" as="geometry" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
+          <mxGeometry y="10" width="960" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="SxxazjnEcDOOSWcFCbGN-3" value="CLT-master02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="83.2" y="30.4" width="96.8" height="29.6" as="geometry" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.esx_esxi;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
+          <mxGeometry x="10" width="33.2" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-3" value="CLT-master02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-16">
+          <mxGeometry x="43.2" y="10.399999999999999" width="96.8" height="29.6" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-8" value="001" style="" parent="0" />
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-9" value="rhel8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="425" y="80" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="385" y="50" width="59.2" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-11" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="200" y="290" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="160" y="260" width="59.2" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-13" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="680" y="290" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SxxazjnEcDOOSWcFCbGN-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" vertex="1" parent="SxxazjnEcDOOSWcFCbGN-8">
+          <mxGeometry x="640" y="260" width="59.2" height="59.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
