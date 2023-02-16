@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T04:47:15.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Fc1PtpSRga3HNYOAyVYR" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T04:49:09.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1JKtH6JtoqT_4dJCVipN" version="20.8.20" type="github">
   <diagram name="페이지-1" id="SaMpR5G6Mgzdkvtq6LY5">
     <mxGraphModel dx="1559" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -56,25 +56,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="200" y="70" width="770" height="260" as="geometry" />
+          <mxGeometry x="80" y="70" width="1020" height="260" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="370" height="173" as="geometry" />
+          <mxGeometry x="90" y="150" width="490" height="173" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="590" y="150" width="370" height="173" as="geometry" />
+          <mxGeometry x="590" y="150" width="500" height="173" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-18" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="205.5" width="140" height="105" as="geometry" />
+          <mxGeometry x="265" y="205.5" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-19" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="205.5" width="140" height="105" as="geometry" />
+          <mxGeometry x="415" y="205.5" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-20" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="205.5" width="140" height="105" as="geometry" />
+          <mxGeometry x="620.5" y="205.5" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="h4AE-v895PUxvbg3pdBg-21" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="205.5" width="140" height="105" as="geometry" />
+          <mxGeometry x="770" y="205.5" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="h4AE-v895PUxvbg3pdBg-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="970" y="414" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h4AE-v895PUxvbg3pdBg-23" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="205.5" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="h4AE-v895PUxvbg3pdBg-24" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;LUN 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="205.5" width="140" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
