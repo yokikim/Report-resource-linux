@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T09:48:54.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CR45pRfTyHk8KMMMXcw5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T09:49:15.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mnDLHTc_gkPiC-7K2n0d" version="20.8.20" type="github">
   <diagram name="페이지-1" id="VvsWKDYXX7uIbYFHnTTL">
     <mxGraphModel dx="1420" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,12 @@
         </mxCell>
         <mxCell id="diWcYjeZE2_VsekJOVcv-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png;fontSize=31;" vertex="1" parent="diWcYjeZE2_VsekJOVcv-1">
           <mxGeometry x="440" y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="diWcYjeZE2_VsekJOVcv-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=31;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="diWcYjeZE2_VsekJOVcv-1" source="diWcYjeZE2_VsekJOVcv-3" target="diWcYjeZE2_VsekJOVcv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="420" as="sourcePoint" />
+            <mxPoint x="650" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
