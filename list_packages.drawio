@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:08:42.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.21" etag="5x8zlSeED1INOJcem4RX" type="github"><diagram name="페이지-1" id="qAXT69G6eZdml_QpsJ1J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:12:28.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WDKe51ea_ufR_b69QFJF" version="20.8.21" type="github">
+  <diagram name="페이지-1" id="qAXT69G6eZdml_QpsJ1J">
+    <mxGraphModel dx="1325" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9BT2Wq1014PRyuQ0RzCl-1" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;추가 설치 패키지 목록&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1080" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9BT2Wq1014PRyuQ0RzCl-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="9BT2Wq1014PRyuQ0RzCl-1">
+          <mxGeometry y="60" width="1080" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9BT2Wq1014PRyuQ0RzCl-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9BT2Wq1014PRyuQ0RzCl-1">
+          <mxGeometry y="100" width="1080" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
