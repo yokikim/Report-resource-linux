@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T08:20:48.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gg-2qJr3Xtqo-xCxE6H4" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T08:21:21.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oNYtFbrg4CPq2lDKZHxk" version="20.8.21" type="github">
   <diagram name="페이지-1" id="KyzcM3CwXOdCmTSFE3pm">
     <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="UqRdVdEij4UEKLvfqGT5-76" value="Linux Host" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fontSize=24;fillColor=default;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
           <mxGeometry x="840" y="710" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqRdVdEij4UEKLvfqGT5-77" value="Repository server on Internet" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fontSize=24;fillColor=default;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
+          <mxGeometry x="60" y="310" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
