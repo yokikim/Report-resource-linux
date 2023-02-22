@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T02:37:33.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gzqd_4OdHWBIZLUd2n0E" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T02:39:22.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sA1d0yUvh76XlZFJ-uhF" version="20.8.22" type="github">
   <diagram name="페이지-1" id="KyzcM3CwXOdCmTSFE3pm">
-    <mxGraphModel dx="1325" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
         <mxCell id="UqRdVdEij4UEKLvfqGT5-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="510" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="UqRdVdEij4UEKLvfqGT5-3" value="packages" style="locked=1;" parent="0" />
+        <mxCell id="UqRdVdEij4UEKLvfqGT5-3" value="packages" style="" parent="0" />
         <mxCell id="UqRdVdEij4UEKLvfqGT5-49" value="" style="group" parent="UqRdVdEij4UEKLvfqGT5-3" vertex="1" connectable="0">
           <mxGeometry x="150" y="90" width="335" height="200" as="geometry" />
         </mxCell>
@@ -131,6 +131,9 @@
         <mxCell id="UqRdVdEij4UEKLvfqGT5-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;fontSize=24;" parent="UqRdVdEij4UEKLvfqGT5-3" vertex="1">
           <mxGeometry x="860" y="490" width="233.33" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UqRdVdEij4UEKLvfqGT5-3" source="UqRdVdEij4UEKLvfqGT5-62" target="zSmVEiJgCLaj5jH9_b5u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Repo List" list1="name" list2="baseurl" list3="enabled" list4="gpgcheck" id="UqRdVdEij4UEKLvfqGT5-62">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fillColor=default;swimlaneLine=1;glass=0;" parent="UqRdVdEij4UEKLvfqGT5-3" vertex="1">
             <mxGeometry x="750" y="360" width="140" height="150" as="geometry" />
@@ -169,7 +172,15 @@
         <mxCell id="UqRdVdEij4UEKLvfqGT5-77" value="Repository server on Internet" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fontSize=24;fillColor=default;" parent="UqRdVdEij4UEKLvfqGT5-3" vertex="1">
           <mxGeometry x="60" y="310" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSmVEiJgCLaj5jH9_b5u-1" value="icon" parent="0" />
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UqRdVdEij4UEKLvfqGT5-3" source="zSmVEiJgCLaj5jH9_b5u-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-3" value="Yum / Dnf" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fontSize=24;fillColor=default;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
+          <mxGeometry x="585" y="270" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-1" value="icon" style="locked=1;" parent="0" />
         <mxCell id="zSmVEiJgCLaj5jH9_b5u-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux_repository;" vertex="1" parent="zSmVEiJgCLaj5jH9_b5u-1">
           <mxGeometry x="40" y="260" width="75.64" height="70" as="geometry" />
         </mxCell>
