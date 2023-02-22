@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T02:39:58.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hLzkd3TKB7xqiBiTTLeD" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T02:40:39.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KyjTDSSJGDE1G7unA6e1" version="20.8.22" type="github">
   <diagram name="페이지-1" id="KyzcM3CwXOdCmTSFE3pm">
     <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -179,6 +179,12 @@
         </mxCell>
         <mxCell id="zSmVEiJgCLaj5jH9_b5u-3" value="Yum / Dnf" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fontSize=24;fillColor=default;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
           <mxGeometry x="585" y="270" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
+          <mxGeometry x="750" y="650" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zSmVEiJgCLaj5jH9_b5u-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="UqRdVdEij4UEKLvfqGT5-3">
+          <mxGeometry x="792.5" y="620" width="42.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zSmVEiJgCLaj5jH9_b5u-1" value="icon" style="locked=1;" parent="0" />
         <mxCell id="zSmVEiJgCLaj5jH9_b5u-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux_repository;" vertex="1" parent="zSmVEiJgCLaj5jH9_b5u-1">
