@@ -1,38 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T01:18:03.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j4nNfc_Bx8yS36crl6pe" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T01:27:32.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tkTpRNMtm95sBC04gtJj" version="20.8.21" type="github">
   <diagram name="페이지-1" id="qAXT69G6eZdml_QpsJ1J">
-    <mxGraphModel dx="1325" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="138x4V-RQ_fm05UkUeAB-1" value="vim" style="swimlane;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="170" height="70" as="geometry" />
+          <mxGeometry x="10" y="70" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-3" value="리눅스 기본 편집기인 vi 편집기의 강화판격인 문서 편집 툴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="138x4V-RQ_fm05UkUeAB-1">
-          <mxGeometry x="5" y="25" width="160" height="40" as="geometry" />
+          <mxGeometry x="3" y="25" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-4" value="bash-completion" style="swimlane;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="60" width="210" height="70" as="geometry" />
+          <mxGeometry x="10" y="230" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-6" value="기본 명령줄 인터페이스 프로그램의 기능을 확장시키는 프로그램" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="138x4V-RQ_fm05UkUeAB-4">
-          <mxGeometry x="5" y="30" width="200" height="30" as="geometry" />
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-10" value="sysstat" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="200" height="70" as="geometry" />
+          <mxGeometry x="240" y="70" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-28" value="일정 스케줄에 맞춰서 시스템의 상태(CPU,메모리,디스크,응용프로그램,네트워크 연결 및 성능)을 수집하는 도구" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="138x4V-RQ_fm05UkUeAB-10">
+          <mxGeometry y="27" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-11" value="yum-utils" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="200" height="70" as="geometry" />
+          <mxGeometry x="10" y="150" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="138x4V-RQ_fm05UkUeAB-12" value="추가기능" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="100" height="40" as="geometry" />
+        <mxCell id="138x4V-RQ_fm05UkUeAB-27" value="프로그램 설치 도구인 yum의 기능 추가 패키지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="138x4V-RQ_fm05UkUeAB-11">
+          <mxGeometry y="23" width="200" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-12" value="추가기능 지원" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-13" value="net-tools" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="200" height="80" as="geometry" />
+          <mxGeometry x="460" y="170" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="138x4V-RQ_fm05UkUeAB-15" value="lsof" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="210" width="200" height="80" as="geometry" />
+          <mxGeometry x="240" y="250" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="138x4V-RQ_fm05UkUeAB-16" value="진단/조회 도구" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="100" height="30" as="geometry" />
+        <mxCell id="138x4V-RQ_fm05UkUeAB-16" value="시스템 진단/조회 도구" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-17" value="bind-utils" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-18" value="pciutils" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-19" value="서비스 설정 도구" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-20" value="실시간 추적 도구" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-21" value="tcpdump" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="370" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-22" value="psmisc" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-23" value="nfs-utils" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="60" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-24" value="psacct" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-25" value="strace" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="470" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="138x4V-RQ_fm05UkUeAB-26" value="chrony" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
