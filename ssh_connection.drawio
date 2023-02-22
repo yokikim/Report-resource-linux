@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T02:24:37.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UvUKNlKqdvm_GXql0ZJS" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T02:30:40.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DfBJHYUl8pezVuknToMs" version="20.8.22" type="github">
   <diagram name="페이지-1" id="2jKldEpFqvBZ3NxTpI1q">
-    <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-8" value="room" style="locked=1;" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-44" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=#171717;fontSize=21;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-22">
           <mxGeometry x="290" y="120" width="400" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-21" value="text" style="locked=1;" parent="0" />
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-21" value="text" style="" parent="0" />
         <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-25" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Server Room&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
           <mxGeometry x="720" y="710" width="260" height="70" as="geometry" />
         </mxCell>
@@ -103,6 +103,30 @@
         </mxCell>
         <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-43" value="SSH remote connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-40">
           <mxGeometry x="90" y="15" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-46" value="Server admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="60" y="414" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-47" value="Server admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="60" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-48" value="Server admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="950" y="580" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-50" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;shadow=0;labelBorderColor=none;strokeColor=#171717;fontSize=21;rotation=-180;position2=0.94;base=20;size=54;position=0.5;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="220" y="376" width="330" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-51" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;shadow=0;labelBorderColor=none;strokeColor=#171717;fontSize=21;rotation=-180;position2=0;base=61;size=50;position=0.39;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="620" y="536" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-52" value="SSH와 Terminal program을 사용한 서버 원격 접속" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="240" y="450" width="290" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-53" value="KVM(모니터, 마우스, 키보드)를 직접 서버에 붙인 직접(console)접근" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="630" y="600" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NgrTw1Hf1ZFmr4vW8jG1-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;console connection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=0;strokeColor=#171717;fontSize=21;" vertex="1" parent="NgrTw1Hf1ZFmr4vW8jG1-21">
+          <mxGeometry x="780" y="460" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
